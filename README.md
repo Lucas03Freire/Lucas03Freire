@@ -20,6 +20,7 @@ Após quase 7 anos de experiência como Assistente Administrativo, decidi direci
 - SQL
 - Python (Aprendendo)
 - Power BI (Aprendendo)
+- Google Data Studio
 - Excel
 - Google Sheets
 - Pandas
