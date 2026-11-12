@@ -6,7 +6,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e estou em transição de
 
 Após quase 7 anos de experiência como Assistente Administrativo, decidi direcionar minha carreira para Dados, área na qual venho desenvolvendo meus conhecimentos técnicos e construindo projetos práticos.
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 📊 Estudando Análise de Dados pela EBAC
@@ -15,7 +15,7 @@ Após quase 7 anos de experiência como Assistente Administrativo, decidi direci
 - 🔎 Interessado em análise de dados, Business Intelligence e visualização de informações
 - 🚀 Atualmente buscando uma oportunidade para iniciar minha carreira na área de Dados
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 - SQL
 - Python (Aprendendo)
@@ -25,7 +25,7 @@ Após quase 7 anos de experiência como Assistente Administrativo, decidi direci
 - Pandas
 - Git & GitHub (Aprendendo)
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 Estou aprofundando meus conhecimentos em:
 
@@ -37,13 +37,13 @@ Estou aprofundando meus conhecimentos em:
 - Visualização de dados
 - ETL e processos de preparação de dados
 
-## 📂 Projetos
+## Projetos
 
 Aqui compartilho projetos desenvolvidos durante meus estudos e minha evolução na área de Dados.
 
 Os projetos incluem exercícios e aplicações práticas envolvendo análise, tratamento e visualização de dados.
 
-## 📫 Contato
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/lucas03freire/
 - E-mail: lucas03freire@gmail.com
