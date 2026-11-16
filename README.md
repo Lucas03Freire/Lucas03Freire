@@ -12,7 +12,7 @@ Após quase 7 anos de experiência como Assistente Administrativo, decidi direci
 - 📊 Estudando Análise de Dados pela EBAC
 - 💻 Desenvolvendo conhecimentos em SQL, Python, BigQuery e Web Analytics
 - 📈 Também trabalhando com Excel / Google Sheets e Power BI/ Google Data Studio
-- 🔎 Interessado em análise de dados, Business Intelligence e visualização de informações
+- 🔎 Interessado em Análise de Dados, Web Analytics e Business Intelligence
 - 🚀 Atualmente buscando uma oportunidade para iniciar minha carreira na área de Dados
 
 ## Tecnologias e ferramentas
