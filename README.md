@@ -11,7 +11,7 @@ Após quase 7 anos de experiência como Assistente Administrativo, decidi direci
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 📊 Estudando Análise de Dados pela EBAC
 - 💻 Desenvolvendo conhecimentos em SQL, Python, BigQuery e Web Analytics
-- 📈 Também trabalhando com Excel e Google Sheets e e Power BI/ Google Data Studio
+- 📈 Também trabalhando com Excel / Google Sheets e Power BI/ Google Data Studio
 - 🔎 Interessado em análise de dados, Business Intelligence e visualização de informações
 - 🚀 Atualmente buscando uma oportunidade para iniciar minha carreira na área de Dados
 
