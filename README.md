@@ -1,6 +1,6 @@
 # Olá! Eu sou o Lucas 👋
 
-### Analista de Dados | SQL | Power BI | Python
+### Analista de Dados | SQL | BigQuery | Python | Web Analytics | Business Intelligence
 
 Sou graduado em Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de Dados.
 
@@ -10,21 +10,21 @@ Após quase 7 anos de experiência como Assistente Administrativo, decidi direci
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 📊 Estudando Análise de Dados pela EBAC
-- 💻 Desenvolvendo conhecimentos em SQL, Python e Power BI
-- 📈 Também trabalhando com Excel e Google Sheets
+- 💻 Desenvolvendo conhecimentos em SQL, Python, BigQuery e Web Analytics
+- 📈 Também trabalhando com Excel e Google Sheets e e Power BI/ Google Data Studio
 - 🔎 Interessado em análise de dados, Business Intelligence e visualização de informações
 - 🚀 Atualmente buscando uma oportunidade para iniciar minha carreira na área de Dados
 
 ## Tecnologias e ferramentas
 
 - SQL
-- Python (Aprendendo)
-- Power BI (Aprendendo)
-- Google Data Studio
+- Python 
+- Power BI | Google Data Studio
+- BigQuery
 - Excel
 - Google Sheets
 - Pandas
-- Git & GitHub (Aprendendo)
+- Git & GitHub 
 
 ## Atualmente estudando
 
@@ -33,7 +33,8 @@ Estou aprofundando meus conhecimentos em:
 - Análise e tratamento de dados
 - SQL
 - Python para análise de dados
-- Power BI e DAX
+- BigQuery
+- Web Analytics
 - Estatística
 - Visualização de dados
 - ETL e processos de preparação de dados
