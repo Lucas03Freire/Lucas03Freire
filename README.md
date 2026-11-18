@@ -1,10 +1,10 @@
 # Olá! Eu sou o Lucas 👋
 
-### Analista de Dados | SQL | BigQuery | Python | Web Analytics | Business Intelligence
+### Analista de Dados | Web Analytics | SQL | BigQuery | Python | Business Intelligence
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de Dados.
+Sou graduado em Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para a área de Dados.
 
-Após quase 7 anos de experiência como Assistente Administrativo, decidi direcionar minha carreira para Dados, área na qual venho desenvolvendo meus conhecimentos técnicos e construindo projetos práticos.
+Durante meus quase 7 anos de experiência como Assistente Administrativo, além das atividades administrativas, comecei a aplicar conhecimentos de análise de dados na rotina profissional, trabalhando com planilhas de vendas e produção, acompanhamento de indicadores, relatórios e dashboards. Essa vivência despertou meu interesse pela área e me motivou a aprofundar meus conhecimentos técnicos, desenvolver projetos práticos e buscar novas oportunidades em Dados.
 
 ## Sobre mim
 
@@ -18,6 +18,7 @@ Após quase 7 anos de experiência como Assistente Administrativo, decidi direci
 ## Tecnologias e ferramentas
 
 - SQL
+- Web Analytics
 - Python 
 - Power BI | Google Data Studio
 - BigQuery
