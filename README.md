@@ -2,14 +2,14 @@
 
 ### Analista de Dados | Web Analytics | SQL | BigQuery | Python | Business Intelligence
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para a área de Dados.
+Sou graduado em Análise e Desenvolvimento de Sistemas e formado em Análise de Dados pela EBAC.
 
-Durante meus quase 7 anos de experiência como Assistente Administrativo, além das atividades administrativas, comecei a aplicar conhecimentos de análise de dados na rotina profissional, trabalhando com planilhas de vendas e produção, acompanhamento de indicadores, relatórios e dashboards. Essa vivência despertou meu interesse pela área e me motivou a aprofundar meus conhecimentos técnicos, desenvolver projetos práticos e buscar novas oportunidades em Dados.
+Durante meus quase 7 anos de experiência profissional na A&J Mármores, atuei na análise de dados de vendas e produção, acompanhamento de indicadores, elaboração de relatórios e desenvolvimento de dashboards. Essa experiência fortaleceu minha visão analítica e despertou meu interesse por Data Analytics, Business Intelligence e Web Analytics, motivando-me a aprofundar meus conhecimentos técnicos e desenvolver projetos práticos.
 
 ## Sobre mim
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 📊 Estudando Análise de Dados pela EBAC
+- 🎓 Análise e Desenvolvimento de Sistemas – UNICID
+- 🎓 Analista de Dados – EBAC 
 - 💻 Desenvolvendo conhecimentos em SQL, Python, BigQuery e Web Analytics
 - 📈 Também trabalhando com Excel / Google Sheets e Power BI/ Google Data Studio
 - 🔎 Interessado em Análise de Dados, Web Analytics e Business Intelligence
@@ -19,25 +19,13 @@ Durante meus quase 7 anos de experiência como Assistente Administrativo, além 
 
 - SQL
 - Web Analytics
+- BigQuery
 - Python 
 - Power BI | Google Data Studio
-- BigQuery
-- Excel
-- Google Sheets
+- Excel | Google Sheets
 - Pandas
 - Git & GitHub 
-
-## Atualmente estudando
-
-Estou aprofundando meus conhecimentos em:
-
-- Análise e tratamento de dados
-- SQL
-- Python para análise de dados
-- BigQuery
-- Web Analytics
 - Estatística
-- Visualização de dados
 - ETL e processos de preparação de dados
 
 ## Projetos
@@ -48,5 +36,5 @@ Os projetos incluem exercícios e aplicações práticas envolvendo análise, tr
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/lucas03freire/
-- E-mail: lucas03freire@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lucas03freitas
+- E-mail: Lucas03Freitas@outlook.com
